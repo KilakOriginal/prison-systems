@@ -12,5 +12,5 @@ export default defineConfig({
     },
   },
   plugins: [react(), tailwindcss()],
-  base: "/prison-systems/",
+  base: "/data-science-project-2025/website/prison-systems/",
 });
